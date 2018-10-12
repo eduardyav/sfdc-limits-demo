@@ -1,6 +1,7 @@
 {
   "packageDirectories": [
-    { "path": "sfdx-source/main", "default": true }
+    { "path": "sfdx-source/project", "default": true },
+    { "path": "sfdx-source/untracked" }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
